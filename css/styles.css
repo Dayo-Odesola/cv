@@ -87,6 +87,12 @@ hr {
   top: 50px;
 }
 
+.sun {
+  position: absolute;
+  top: 100px;
+  left: 16%;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 20%;
